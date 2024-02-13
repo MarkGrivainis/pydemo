@@ -62,7 +62,7 @@ where = ["src"]
 "demo" = ["py.typed"]
 
 [tool.bumpversion]
-current_version = "0.1.0"
+current_version = "0.1.1"
 commit = true
 tag = true
 
